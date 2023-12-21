@@ -1,6 +1,6 @@
 • Azcyy!
 
-•Learning Python 
+• Learning Python 
 
 • Sometimes I draw 
 
