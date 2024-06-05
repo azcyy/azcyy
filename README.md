@@ -1,3 +1,7 @@
+<p align="center">
+<img src="GitHub Banner.png" />
+</p>
+
 # 💫 About Me:
 📱UX / UI Designer 📱<br>💻Front-End Developer💻<br>📝Hi my name is Oriana Brum, also known as ``Azcy'', I'm a young UX/UI Designer and Frontend Developer. <br> I live in Uruguay and I have a particular taste for digital minimalism<br>⚡I like cats!, and sometimes I draw 
 
